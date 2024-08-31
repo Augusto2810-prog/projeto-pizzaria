@@ -1,0 +1,76 @@
+*{
+    border: 0;
+
+    padding: 0;
+
+    margin: 0;
+}
+
+#header1 {
+    background-color: red;
+}
+
+#headerh1 {
+    color: white;
+
+    padding-left: 10px;
+
+    padding-top: 5px;
+
+    padding-bottom: 4px;
+
+}
+
+.headerh3 {
+    color: white;
+
+    font-size: arial;
+
+    padding-left: 10px;
+
+    padding-top: 5px;
+
+    padding-bottom: 3px;
+}
+
+.linkcabe {
+    text-decoration: none;
+
+    color: white;
+
+    word-spacing: 10px;
+
+    font-size: 16px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navegacao {
+    text-align: right;
+
+    padding-right: 10px;
+}
+
+.section-1 {
+    color: white;
+
+    background-color: red;
+
+    margin: 0 auto;
+
+    text-align: center;
+
+    width: 90%;
+
+    height: 150px;
+
+    border-radius: 13px;
+}
+
+.promoh2 {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 25px;
+
+
+}
