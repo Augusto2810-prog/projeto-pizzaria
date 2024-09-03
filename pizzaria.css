@@ -95,3 +95,55 @@
     font-size: 22px;
 
 }
+
+#section-grid {
+    padding: 10px;
+
+    height: 10px;
+
+    padding-bottom: 20px;
+}
+
+.section-2 {
+    background-color: red;
+
+    margin: 0 auto;
+
+    width: 50%;
+
+    max-width: 100%;
+
+    height: 180px;
+
+    border-radius: 15px;
+
+    text-align: center;
+}
+
+.divpai1 {
+    background-color: none;
+
+    display: grid;
+
+    height: 100%;
+
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+    grid-column-gap: 10px;
+
+    max-width: 90%;
+
+    margin: 0 auto;
+
+    padding: 5px;
+
+}
+
+.divfilho1 {
+    margin: 0 auto;
+
+    padding: 20%;
+
+    background-color: white;
+    
+}
